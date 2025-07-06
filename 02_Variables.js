@@ -1,4 +1,4 @@
-console.log("This is Variables.js file")
+//Variables in js
 var a = 77
 console.log(a)
 a = 88

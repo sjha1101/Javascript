@@ -1,6 +1,7 @@
-console.log("This is var_let_const.js file")
-//var
-//The value of var can be updated
+/*we can declare variables using:
+var, let, and const 
+var
+The value of var can be updated*/
 var a = 45
 var a = "hello";
 console.log(a)
