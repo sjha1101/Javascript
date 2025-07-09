@@ -1,4 +1,4 @@
-//String 
+//String
 let name = "Rohan"
 console.log(name.length)
 console.log(name[0])
